@@ -1,0 +1,22 @@
+
+header{
+    text-align: center;
+    border: solid;
+}
+
+footer{
+    border: solid;
+}
+
+img{
+    max-width: 100%;
+}
+
+.box{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.smaller-box{
+    border: solid;
+}
